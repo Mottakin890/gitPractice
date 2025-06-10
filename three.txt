@@ -1,3 +1,6 @@
 three
 3
 tin
+
+
+now i am try to pull all the things from remote to local repository
